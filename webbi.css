@@ -1,0 +1,13 @@
+table,tr,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    border-spacing: 5px;   /*no effect when it is in collapse form */
+
+}
+th{
+    background-color:blue ;
+}
+td{
+    background-color: rgb(146, 129, 129);
+}
